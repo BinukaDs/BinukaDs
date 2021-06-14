@@ -1,9 +1,7 @@
-### Hey I'M Binuka 👋
+###                                                                         Hey I'M Binuka 👋
 
 
 
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Arduino Project Hub
 - 🌱 I’m currently learning ...Python & Arduino
