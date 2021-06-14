@@ -11,5 +11,5 @@
 - 📫 How to reach me: ...https://create.arduino.cc/projecthub/binukadasunpriya
 - 📫 My E-Mail: BinukaDasunpriya@gmail.com                  
 - 😄 Pronouns: ...He/Him
-- ⚡ Who am I: ...I'm a programmer who has 2 years experience with programming.
+- 🤔 Who am I: ...I'm a programmer who has 2 years experience with programming😄.
 -->
