@@ -7,9 +7,9 @@
 - 🌱 I’m currently learning ...Python & Arduino
 - 👯 I’m looking to collaborate on ...Arduino
 - 🤔 I’m looking for help with ...Arduino
-- 💬 Ask me about ...Arduino
+- 💬 Ask me about ...Anything
 - 📫 How to reach me: ...https://create.arduino.cc/projecthub/binukadasunpriya
--                   : ...BinukaDasunpriya@gmail.com
+- 📫 My E-Mail:BinukaDasunpriya@gmail.com                  
 - 😄 Pronouns: ...He/Him
-- ⚡ Who am I: ...I'm a programmer who has 2 years experience
+- ⚡ Who am I: ...I'm a programmer who has 2 years experience.
 -->
