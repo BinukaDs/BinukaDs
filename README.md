@@ -5,8 +5,8 @@
 
 - 🔭 I’m a member of ...Arduino Project Hub
 - 🌱 I’m currently learning ...Python 
-- 👯 I’m looking to collaborate on ...Arduino
-- 🤔 I’m have 2 years with ...Arduino
+- 👯 I’m looking to collaborate on Arduino
+- 🤔 I have 2 years Experience with Arduino
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...https://create.arduino.cc/projecthub/binukadasunpriya
 - 📫 My E-Mail: BinukaDasunpriya@gmail.com                  
