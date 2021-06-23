@@ -1,6 +1,7 @@
 ###                                                                         Hey Guys, I'M Binuka 👋
 
-![Logo-01](https://user-images.githubusercontent.com/77571607/123076450-c8602a00-d436-11eb-8199-ebfd60526214.jpg)
+
+![onlinelogomaker-062321-1543-7334-500](https://user-images.githubusercontent.com/77571607/123080008-1b87ac00-d43a-11eb-8f0d-4d5f9bd0839b.jpg)
 
 
 
