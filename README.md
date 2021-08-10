@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m a member of ...Arduino Project Hub
-- 🌱 I’m currently learning ...Python 
+- 🌱 I’m currently learning ...Web Development 
 - 👯 I’m looking to collaborate on Arduino
 - 🤔 I have 2 years Experience with Arduino
 - 💬 Ask me about ...Anything
