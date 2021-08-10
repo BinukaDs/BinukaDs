@@ -1,7 +1,7 @@
 ###                                                                         Hey Guys, I'M Binuka 👋
 
 
-![focus-animation.gif](https://user-images.githubusercontent.com/77571607/123080008-1b87ac00-d43a-11eb-8f0d-4d5f9bd0839b.jpg)
+![focus-animation.gif](focus-animation.gif)
 
 
 
