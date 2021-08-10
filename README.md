@@ -1,8 +1,9 @@
+
 ###                                                                         Hey Guys, I'M Binuka 👋
 
 
-![focus-animation.gif](focus-animation.gif)
 
+![focus-animation](https://user-images.githubusercontent.com/77571607/128887394-7c79b3a4-43ab-466b-8e9a-240081195b10.gif)
 
 
 - 🔭 I’m a member of ...Arduino Project Hub
