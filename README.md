@@ -9,17 +9,20 @@
 <br>
 <h2>Languages <img src="https://tinyurl.com/373x8ws9" height="40" width="40"/></h2>
 
-- <img src="https://tinyurl.com/d2tuxtjk" height="40" width="110 "/>
-- <img src="https://tinyurl.com/yfpueyty" height="40" width="70" />
-- <img src="https://tinyurl.com/3zpjdtev" height="40" width="70" />
+- <img src="https://img.icons8.com/color/64/000000/arduino.png"/>
+- <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+- <img src="https://img.icons8.com/color/48/000000/css3.png" /> 
+- <img src="https://img.icons8.com/officel/48/000000/markdown.png"/>
+- <img src="https://img.icons8.com/dusk/64/000000/javascript-logo.png"/>
+- <img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
 
 <h2>Connect with me<img src="https://tinyurl.com/53r9xhtv" height="40" width="40"/></h2>
 
-<a href="https://dev.to/binukads" target="_blank" /><img src="https://tinyurl.com/2abysjr2" height="30px" width="70px" alt="dev.to" />
-<a href="https://tinyurl.com/yxdmch39" target="_blank" /><img src="https://tinyurl.com/fjzrmxsz" height="30px" width="160px" alt="ArduinoProjectHub" />
-<a href="https://tinyurl.com/buphz5ay" target="_blank" /><img src="https://tinyurl.com/t2t7wku5"  height="30px" width="120px" alt="StackOverFlow" />
-<a href="https://tinyurl.com/nuvbu9j4" target="_blank" /><img src="https://tinyurl.com/5db53bdd" height="30px" width="60px">
-<a href="https://tinyurl.com/8ewxzb3m" target="_blank" /><img src="https://tinyurl.com/ysattxax" height="30px" width="70px">
+<a href="https://dev.to/binukads" target="_blank" /><img src="https://img.icons8.com/color/48/000000/devpost.png"/>
+<a href="https://tinyurl.com/yxdmch39" target="_blank" /><img src="https://img.icons8.com/fluency/48/000000/arduino.png" />
+<a href="https://tinyurl.com/buphz5ay" target="_blank" /><img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
+<a href="https://tinyurl.com/nuvbu9j4" target="_blank" /><img src="https://img.icons8.com/doodle/48/000000/reddit--v4.png"/>
+<a href="https://tinyurl.com/8ewxzb3m" target="_blank" /><img src="https://img.icons8.com/color/48/000000/codepen.png"/>
 
 
   
