@@ -25,7 +25,7 @@
 <a href="https://tinyurl.com/nuvbu9j4" target="_blank" /><img src="https://img.icons8.com/doodle/48/000000/reddit--v4.png"/>
 <a href="https://tinyurl.com/8ewxzb3m" target="_blank" /><img src="https://img.icons8.com/color/48/000000/codepen.png"/>
 
-<h2>stats</h2>
+<h2>Github stats</h2>
 
 [![BinukaDs's GitHub stats](https://github-readme-stats.vercel.app/api?username=BinukaDs&show_icons=true=true&theme=dracula)](https://github.com/BinukaDs/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BinukaDs&layout=compact)](https://github.com/BinukaDs/github-readme-stats)
