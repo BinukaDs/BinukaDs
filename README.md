@@ -1,4 +1,7 @@
 <h1 align="center">Hi! <img src="https://tinyurl.com/vus58p4x" height="40" width="50">, I'm BinukaDs </h1>
+
+![](https://komarev.com/ghpvc/?username=BinukaDs&color=red)
+
 <img src="https://tinyurl.com/ccmye7nh" alt="focus animation" />
 
 - <img src="https://tinyurl.com/3tk7aftk" height="25" width="25" /> I’m currently learning ... Web Development.
