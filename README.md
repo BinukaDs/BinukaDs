@@ -19,6 +19,7 @@
 <h2>Connect with me<img src="https://tinyurl.com/53r9xhtv" height="40" width="40"/></h2>
 <a href="https://twitter.com/Binuka_Ds" target="_blank"/><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/>
 <a href="https://www.instagram.com/binukads/" target="_blank"/><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
+<a href="https://binukads.github.io/" target="_blank"/><img src="https://img.icons8.com/fluency/48/000000/domain.png"/>
 <a href="https://dev.to/binukads" target="_blank" /><img src="https://img.icons8.com/color/48/000000/devpost.png"/>
 <a href="https://tinyurl.com/yxdmch39" target="_blank" /><img src="https://img.icons8.com/fluency/48/000000/arduino.png" />
 <a href="https://tinyurl.com/buphz5ay" target="_blank" /><img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
