@@ -33,7 +33,7 @@
 
 <h2>Spotify Playing 🎧</h2>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=a73rjgade7gjasbfduqu8a9h9&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=a73rjgade7gjasbfduqu8a9h9&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)]
 
   
 
