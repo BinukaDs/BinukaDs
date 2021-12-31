@@ -1,8 +1,12 @@
-<h1 align="center">Hi! <img src="https://tinyurl.com/vus58p4x" height="40" width="50">, I'm BinukaDs </h1>
-
 ![](https://komarev.com/ghpvc/?username=BinukaDs&color=red)
 
-<img src="https://tinyurl.com/ccmye7nh" alt="focus animation" />
+![my bg](https://user-images.githubusercontent.com/77571607/147807714-564ac943-91fe-47bd-94de-926856a0ca60.jpg)
+
+<h1 align="center">Hi! <img src="https://tinyurl.com/vus58p4x" height="40" width="50">, I'm BinukaDs </h1>
+
+
+
+
 
 - <img src="https://tinyurl.com/3tk7aftk" height="25" width="25" /> I’m currently learning ... Web Development.
 - <img src="https://tinyurl.com/jh95tkpx" height="25" width="25" />I have 3 years Experiences for programming.
