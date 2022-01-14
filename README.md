@@ -2,7 +2,10 @@
 
 ![my bg](https://user-images.githubusercontent.com/77571607/147807714-564ac943-91fe-47bd-94de-926856a0ca60.jpg)
 
-<h1 align="center">Hi! <img src="https://tinyurl.com/vus58p4x" height="40" width="50">, I'm BinukaDs </h1>
+<p align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=%23F74524&size=30&center=true&vCenter=true&lines=I+am+BinukaDs;A+frontend+developer;A+15yrs+old+programmer;A+pc+Lover;Connect+with+me+:)">
+</p>
+
 
 
 
