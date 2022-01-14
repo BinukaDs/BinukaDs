@@ -12,7 +12,7 @@
 
 
 - <img src="https://tinyurl.com/3tk7aftk" height="25" width="25" /> I’m currently learning ... Web Development.
-- <img src="https://tinyurl.com/jh95tkpx" height="25" width="25" />I have 3 years Experiences for programming.
+- <img src="https://tinyurl.com/jh95tkpx" height="25" width="25" />I have 3 years Expirience with programming.
 - <img src="https://tinyurl.com/3tphaa93" height="25" width="25" /> some of my projects... https://create.arduino.cc/projecthub/binukadasunpriya
 - <img src="https://tinyurl.com/mpju23dh" height="25" width="25" /> Ask me about ... Web development.
 - <img src="https://tinyurl.com/v2mc4hyc" height="25" width="25" /> always stay happy
