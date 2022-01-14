@@ -11,13 +11,13 @@
 
 
 
-- <img src="https://tinyurl.com/3tk7aftk" height="25" width="25" /> I’m currently learning ... Web Development.
-- <img src="https://tinyurl.com/jh95tkpx" height="25" width="25" />I have 3 years Expirience with programming.
-- <img src="https://tinyurl.com/3tphaa93" height="25" width="25" /> some of my projects... https://create.arduino.cc/projecthub/binukadasunpriya
-- <img src="https://tinyurl.com/mpju23dh" height="25" width="25" /> Ask me about ... Web development.
-- <img src="https://tinyurl.com/v2mc4hyc" height="25" width="25" /> always stay happy
+- <img src="http://itdev161.matcitdevelopment.org/ClassSection/Spring/Student07/image/programmer.gif-c200" height="40" width="40" /> I’m currently learning ... Web Development.
+- <img src="https://monophy.com/media/CEHtFH3rJ6xdhBUKIT/monophy.gif" height="40" width="40" />I have 3 years Expirience with programming.
+- <img src="https://i0.wp.com/www.redrollmedia.com/wp-content/uploads/2018/11/coding-eco-wo-gif.gif?ssl=1" height="40" width="40" /> some of arduino my projects... https://create.arduino.cc/projecthub/binukadasunpriya
+- <img src="https://c.tenor.com/TyhWL7gJwPgAAAAj/peppo-dance.gif" height="40" width="40" /> Ask me about ... Web development.
+- <img src="https://c.tenor.com/B0BbyOHgHt4AAAAi/pepe-the-frog-dance.gif" height="40" width="40" /> always stay happy
 <br>
-<h2>Languages <img src="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif" height="40" width="40"/></h2>
+<h2>Languages <img src="https://raw.githubusercontent.com/Naman27/Naman27/master/source.gif" height="40" width="40"/></h2>
 
 - <img src="https://img.icons8.com/color/64/000000/arduino.png"/>
 - <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
@@ -36,13 +36,13 @@
 <a href="https://tinyurl.com/nuvbu9j4" target="_blank" /><img src="https://img.icons8.com/doodle/48/000000/reddit--v4.png"/>
 <a href="https://tinyurl.com/8ewxzb3m" target="_blank" /><img src="https://img.icons8.com/color/48/000000/codepen.png"/>
 
-<h2>Github stats</h2>
+<h2>My Github stats <img src="https://raw.githubusercontent.com/vladalexey/vladalexey/main/graph.gif" height="40" width="40"/></h2>
 
 [![BinukaDs's GitHub stats](https://github-readme-stats.vercel.app/api?username=BinukaDs&show_icons=true=true&theme=dracula)](https://github.com/BinukaDs/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BinukaDs&layout=compact)](https://github.com/BinukaDs/github-readme-stats)
 
 
-<h2>Spotify Playing 🎧</h2>
+<h2>Spotify Playing <img src="https://c.tenor.com/D_F--PvRH4wAAAAi/pepe-listening-to-music.gif" height="40" width="40"/></h2>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=a73rjgade7gjasbfduqu8a9h9&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/a73rjgade7gjasbfduqu8a9h9?si=d4e711edb78043b1)
 
