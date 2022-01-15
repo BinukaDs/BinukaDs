@@ -38,8 +38,9 @@
 
 <h2>My Github stats <img src="https://raw.githubusercontent.com/vladalexey/vladalexey/main/graph.gif" height="40" width="40"/></h2>
 
-[![BinukaDs's GitHub stats](https://github-readme-stats.vercel.app/api?username=BinukaDs&show_icons=true=true&theme=dracula)](https://github.com/BinukaDs/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BinukaDs&layout=compact)](https://github.com/BinukaDs/github-readme-stats)
+[![BinukaDs's GITHUB stats](https://github-readme-stats.vercel.app/api?username=BinukaDs&show_icons=true=true&theme=darcula)](https://github.com/BinukaDs/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BinukaDs&langs_count=8&layout=compact&theme=darcula)](https://github.com/BinukaDs/github-readme-stats)
+
 
 
 <h2>Spotify Playing <img src="https://c.tenor.com/D_F--PvRH4wAAAAi/pepe-listening-to-music.gif" height="40" width="40"/></h2>
