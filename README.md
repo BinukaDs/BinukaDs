@@ -17,14 +17,23 @@
 - <img src="https://c.tenor.com/TyhWL7gJwPgAAAAj/peppo-dance.gif" height="40" width="40" /> Ask me about ... Web development.
 - <img src="https://c.tenor.com/B0BbyOHgHt4AAAAi/pepe-the-frog-dance.gif" height="40" width="40" /> always stay happy
 <br>
-<h2>Languages <img src="https://raw.githubusercontent.com/Naman27/Naman27/master/source.gif" height="40" width="40"/></h2>
+<h2>Languages & tools <img src="https://raw.githubusercontent.com/Naman27/Naman27/master/source.gif" height="40" width="40"/></h2>
 
-- <img src="https://img.icons8.com/color/64/000000/arduino.png"/>
-- <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-- <img src="https://img.icons8.com/color/48/000000/css3.png" /> 
-- <img src="https://img.icons8.com/officel/48/000000/markdown.png"/>
-- <img src="https://img.icons8.com/dusk/64/000000/javascript-logo.png"/>
-- <img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
+<div><img src="https://img.icons8.com/color/64/000000/arduino.png"/>
+<img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png" /> 
+<img src="https://img.icons8.com/officel/48/000000/markdown.png"/>
+<img src="https://img.icons8.com/dusk/64/000000/javascript-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
+<img src="https://img.icons8.com/color/48/000000/sass.png"/>
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+<img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/windows-10.png"/>
+<img src="https://img.icons8.com/color/48/000000/webstorm.png"/>
+<img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+<img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/>
+</div>
 
 <h2>Connect with me<img src="https://tinyurl.com/53r9xhtv" height="40" width="40"/></h2>
 <a href="https://twitter.com/Binuka_Ds" target="_blank"/><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/>
