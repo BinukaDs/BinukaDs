@@ -1,6 +1,5 @@
-![](https://komarev.com/ghpvc/?username=BinukaDs&color=red)
+![3](https://user-images.githubusercontent.com/77571607/150686175-dc8d7f57-795b-4397-93e6-9713c23a97f7.jpg)
 
-![my bg](https://user-images.githubusercontent.com/77571607/147807714-564ac943-91fe-47bd-94de-926856a0ca60.jpg)
 
 <p align="center">
    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=%23F74524&size=30&center=true&vCenter=true&lines=I+am+BinukaDs;A+frontend+developer;A+15yrs+old+programmer;A+tech+guy;Connect+with+me+:)">
