@@ -2,7 +2,7 @@
 
 
 <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=%23F74524&size=30&center=true&vCenter=true&lines=I+am+BinukaDs;A+frontend+developer;A+15yrs+old+programmer;A+tech+guy;Connect+with+me+:)">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=%23F74524&size=20&center=true&vCenter=true&lines=I+am+BinukaDs;A+frontend+developer;A+15yrs+old+programmer;Big+fan+of+Knight+Rider+1982.;A+tech+nerd;Connect+with+me+:)">
 </p>
 
 
