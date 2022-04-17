@@ -13,7 +13,7 @@
 
 
 - <img src="https://media0.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif?cid=6c09b9523oyjdwoectd4e3qv2ym9cpyql4lfwunnb11lw6cn&rid=giphy.gif&ct=s" height="40" width="40" /> I’m currently learning (☞ﾟヮﾟ)☞  Web Development.
-- <img src="https://monophy.com/media/CEHtFH3rJ6xdhBUKIT/monophy.gif" height="40" width="40" />I have 3 years Expirience with programming.
+- <img src="https://monophy.com/media/CEHtFH3rJ6xdhBUKIT/monophy.gif" height="40" width="40" />I have 3 years Experience with programming.
 - <img src="https://i0.wp.com/www.redrollmedia.com/wp-content/uploads/2018/11/coding-eco-wo-gif.gif?ssl=1" height="40" width="40" /> some of arduino my projects (☞ﾟヮﾟ)☞  https://create.arduino.cc/projecthub/binukadasunpriya
 - <img src="https://c.tenor.com/TyhWL7gJwPgAAAAj/peppo-dance.gif" height="40" width="40" /> Ask me about (☞ﾟヮﾟ)☞ Web development.
 - <img src="https://c.tenor.com/B0BbyOHgHt4AAAAi/pepe-the-frog-dance.gif" height="40" width="40" /> always stay happy ;)
@@ -39,7 +39,7 @@
 <h2>Connect with me<img src="https://tinyurl.com/53r9xhtv" height="40" width="40"/></h2>
 <a href="https://twitter.com/Binuka_Ds" target="_blank"/><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/>
 <a href="https://www.instagram.com/binukads/" target="_blank"/><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
-<a href="https://binukads.github.io/" target="_blank"/><img src="https://img.icons8.com/fluency/48/000000/domain.png"/>
+<a href="https://www.binukads.me" target="_blank"/><img src="https://img.icons8.com/fluency/48/000000/domain.png"/>
 <a href="https://dev.to/binukads" target="_blank" /><img src="https://img.icons8.com/color/48/000000/devpost.png"/>
 <a href="https://tinyurl.com/yxdmch39" target="_blank" /><img src="https://img.icons8.com/fluency/48/000000/arduino.png" />
 <a href="https://tinyurl.com/buphz5ay" target="_blank" /><img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
