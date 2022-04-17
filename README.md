@@ -12,7 +12,7 @@
 
 
 
-- <img src="http://itdev161.matcitdevelopment.org/ClassSection/Spring/Student07/image/programmer.gif-c200" height="40" width="40" /> I’m currently learning (☞ﾟヮﾟ)☞  Web Development.
+- <img src="https://media0.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif?cid=6c09b9523oyjdwoectd4e3qv2ym9cpyql4lfwunnb11lw6cn&rid=giphy.gif&ct=s" height="40" width="40" /> I’m currently learning (☞ﾟヮﾟ)☞  Web Development.
 - <img src="https://monophy.com/media/CEHtFH3rJ6xdhBUKIT/monophy.gif" height="40" width="40" />I have 3 years Expirience with programming.
 - <img src="https://i0.wp.com/www.redrollmedia.com/wp-content/uploads/2018/11/coding-eco-wo-gif.gif?ssl=1" height="40" width="40" /> some of arduino my projects (☞ﾟヮﾟ)☞  https://create.arduino.cc/projecthub/binukadasunpriya
 - <img src="https://c.tenor.com/TyhWL7gJwPgAAAAj/peppo-dance.gif" height="40" width="40" /> Ask me about (☞ﾟヮﾟ)☞ Web development.
