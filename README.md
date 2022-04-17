@@ -1,24 +1,34 @@
-![](https://komarev.com/ghpvc/?username=BinukaDs)
 
 ![3](https://user-images.githubusercontent.com/77571607/150686175-dc8d7f57-795b-4397-93e6-9713c23a97f7.jpg)
 
 
 <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=%23F74524&size=20&center=true&vCenter=true&lines=I+am+BinukaDs;A+frontend+developer;A+15yrs+old+programmer;Big+fan+of+Knight+Rider+1982.;A+tech+nerd;Connect+with+me+:)">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=329325&size=20&center=true&vCenter=true&lines=I+am+BinukaDs;A+frontend+developer;A+15yrs+old+programmer;Big+fan+of+Knight+Rider+1982.;A+tech+nerd;Connect+with+me+:)">
 </p>
 
 
 
+<h5>
+  
+  ![](https://komarev.com/ghpvc/?username=your-github-BinukaDs&color=329325&tytle=flat-square)
 
+- I am currently learning Web development :)
 
+- My Portfolio :[BinukaDs.me](https://www.binukads.me)
 
-- <img src="https://media0.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif?cid=6c09b9523oyjdwoectd4e3qv2ym9cpyql4lfwunnb11lw6cn&rid=giphy.gif&ct=s" height="40" width="40" /> I’m currently learning (☞ﾟヮﾟ)☞  Web Development.
-- <img src="https://monophy.com/media/CEHtFH3rJ6xdhBUKIT/monophy.gif" height="40" width="40" />I have 3 years Experience with programming.
-- <img src="https://i0.wp.com/www.redrollmedia.com/wp-content/uploads/2018/11/coding-eco-wo-gif.gif?ssl=1" height="40" width="40" /> some of arduino my projects (☞ﾟヮﾟ)☞  https://create.arduino.cc/projecthub/binukadasunpriya
-- <img src="https://c.tenor.com/TyhWL7gJwPgAAAAj/peppo-dance.gif" height="40" width="40" /> Ask me about (☞ﾟヮﾟ)☞ Web development.
-- <img src="https://c.tenor.com/B0BbyOHgHt4AAAAi/pepe-the-frog-dance.gif" height="40" width="40" /> always stay happy ;)
-<br>
-<h2>Languages & tools <img src="https://raw.githubusercontent.com/Naman27/Naman27/master/source.gif" height="40" width="40"/></h2>
+- My Links Website :[BinukaDs.github.io](https://binukads.github.io)
+
+- Reach me :[hello@binukads.me](mailto:hello@binukads.me)
+	
+- Some of my projects :[www.BinukaDs.me/#works](https://www.binukads.me/#works)
+	
+- My experiences :[www.BinukaDs.me/#about](https://www.binukads.me/#about)
+
+- Support me :[buy me a coffee](https://www.buymeacoffee.com/BinukaDs)
+  
+  
+</h5>
+<h3>Languages & tools <img src="https://raw.githubusercontent.com/Naman27/Naman27/master/source.gif" height="40" width="40"/></h3>
 
 <div><img src="https://img.icons8.com/color/64/000000/arduino.png"/>
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
@@ -36,7 +46,7 @@
 <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/>
 </div>
 
-<h2>Connect with me<img src="https://tinyurl.com/53r9xhtv" height="40" width="40"/></h2>
+<h3>Connect with me<img src="https://tinyurl.com/53r9xhtv" height="40" width="40"/></h3>
 <a href="https://twitter.com/Binuka_Ds" target="_blank"/><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/>
 <a href="https://www.instagram.com/binukads/" target="_blank"/><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
 <a href="https://www.binukads.me" target="_blank"/><img src="https://img.icons8.com/fluency/48/000000/domain.png"/>
@@ -46,14 +56,14 @@
 <a href="https://tinyurl.com/nuvbu9j4" target="_blank" /><img src="https://img.icons8.com/doodle/48/000000/reddit--v4.png"/>
 <a href="https://tinyurl.com/8ewxzb3m" target="_blank" /><img src="https://img.icons8.com/color/48/000000/codepen.png"/>
 
-<h2>My Github stats <img src="https://raw.githubusercontent.com/vladalexey/vladalexey/main/graph.gif" height="40" width="40"/></h2>
+<h3>My Github stats <img src="https://raw.githubusercontent.com/vladalexey/vladalexey/main/graph.gif" height="40" width="40"/></h3>
 
 [![BinukaDs's GITHUB stats](https://github-readme-stats.vercel.app/api?username=BinukaDs&show_icons=true=true&theme=darcula)](https://github.com/BinukaDs/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BinukaDs&langs_count=8&layout=compact&theme=darcula)](https://github.com/BinukaDs/github-readme-stats)
 
 
 
-<h2>Spotify Playing <img src="https://c.tenor.com/D_F--PvRH4wAAAAi/pepe-listening-to-music.gif" height="40" width="40"/></h2>
+<h3>Spotify Playing <img src="https://c.tenor.com/D_F--PvRH4wAAAAi/pepe-listening-to-music.gif" height="40" width="40"/></h3>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=a73rjgade7gjasbfduqu8a9h9&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/a73rjgade7gjasbfduqu8a9h9?si=d4e711edb78043b1)
 
