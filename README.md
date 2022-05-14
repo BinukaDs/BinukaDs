@@ -26,9 +26,11 @@
 
 - Support me :[buy me a coffee](https://www.buymeacoffee.com/BinukaDs)
   
-  
+
+
+	
 </h5>
-<h3>Languages & tools <img src="https://raw.githubusercontent.com/Naman27/Naman27/master/source.gif" height="40" width="40"/></h3>
+<h3>Languages & tools 👨‍💻</h3>
 
 <div><img src="https://img.icons8.com/color/64/000000/arduino.png"/>
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
@@ -46,7 +48,7 @@
 <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/>
 </div>
 
-<h3>Connect with me<img src="https://tinyurl.com/53r9xhtv" height="40" width="40"/></h3>
+<h3>Connect with me 👇</h3>
 <a href="https://twitter.com/Binuka_Ds" target="_blank"/><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/>
 <a href="https://www.instagram.com/binukads/" target="_blank"/><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
 <a href="https://www.binukads.me" target="_blank"/><img src="https://img.icons8.com/fluency/48/000000/domain.png"/>
@@ -56,7 +58,13 @@
 <a href="https://tinyurl.com/nuvbu9j4" target="_blank" /><img src="https://img.icons8.com/doodle/48/000000/reddit--v4.png"/>
 <a href="https://tinyurl.com/8ewxzb3m" target="_blank" /><img src="https://img.icons8.com/color/48/000000/codepen.png"/>
 
-<h3>My Github stats <img src="https://raw.githubusercontent.com/vladalexey/vladalexey/main/graph.gif" height="40" width="40"/></h3>
+<h3>my GitHub Streak ✅</h3>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BinukaDs&theme=gruvbox)](https://git.io/streak-stats)
+
+![GitHub Commits](https://github-profile-trophy.vercel.app/?username=BinukaDs&title=Commits)
+
+<h3>My Github stats 💯</h3>
 
 [![BinukaDs's GITHUB stats](https://github-readme-stats.vercel.app/api?username=BinukaDs&show_icons=true=true&theme=darcula)](https://github.com/BinukaDs/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BinukaDs&langs_count=8&layout=compact&theme=darcula)](https://github.com/BinukaDs/github-readme-stats)
