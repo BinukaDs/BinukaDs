@@ -36,6 +36,8 @@
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png" /> 
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" style="width:48px; height:48px;"/>	
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>	
 <img src="https://img.icons8.com/officel/48/000000/markdown.png"/>
 <img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
 <img src="https://img.icons8.com/color/48/000000/sass.png"/>
