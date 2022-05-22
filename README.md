@@ -35,14 +35,14 @@
 <div><img src="https://img.icons8.com/color/64/000000/arduino.png"/>
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png" /> 
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img src="https://img.icons8.com/officel/48/000000/markdown.png"/>
-<img src="https://img.icons8.com/dusk/64/000000/javascript-logo.png"/>
 <img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
 <img src="https://img.icons8.com/color/48/000000/sass.png"/>
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/windows-10.png"/>
+<img src="https://img.icons8.com/color/48/000000/windows-11.png"/>
 <img src="https://img.icons8.com/color/48/000000/webstorm.png"/>
 <img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
 <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/>
@@ -50,6 +50,7 @@
 
 <h3>Connect with me 👇</h3>
 <a href="https://twitter.com/Binuka_Ds" target="_blank"/><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/>
+<a href="https://www.linkedin.com/in/binukadasunpriya/" target="_blank"/><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>
 <a href="https://www.instagram.com/binukads/" target="_blank"/><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
 <a href="https://www.binukads.me" target="_blank"/><img src="https://img.icons8.com/fluency/48/000000/domain.png"/>
 <a href="https://dev.to/binukads" target="_blank" /><img src="https://img.icons8.com/color/48/000000/devpost.png"/>
