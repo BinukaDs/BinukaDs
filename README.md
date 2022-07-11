@@ -12,7 +12,7 @@
   
   ![](https://komarev.com/ghpvc/?username=your-github-BinukaDs&color=329325&tytle=flat-square)
 
-- I am currently learning Web development :)
+- I am currently learning Machine Learning :)
 
 - My Portfolio :[BinukaDs.me](https://www.binukads.me)
 
