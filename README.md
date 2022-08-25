@@ -77,7 +77,7 @@
 
 
 
-<h3>Spotify Playing <img src="https://c.tenor.com/D_F--PvRH4wAAAAi/pepe-listening-to-music.gif" height="40" width="40"/></h3>
+<h3>Spotify Playing 🎧</h3>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=a73rjgade7gjasbfduqu8a9h9&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/a73rjgade7gjasbfduqu8a9h9?si=d4e711edb78043b1)
 
