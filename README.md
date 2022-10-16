@@ -3,10 +3,10 @@
 
 
 <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=329325&size=20&center=true&vCenter=true&lines=I+am+BinukaDs;A+frontend+developer;A+15yrs+old+programmer;Big+fan+of+Knight+Rider+1982.;A+tech+nerd;Connect+with+me+:)">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=FFFFFF&size=20&center=true&vCenter=true&lines=I+am+BinukaDs;A+frontend+developer;A+15yrs+old+programmer;Big+fan+of+Knight+Rider+1982.;A+tech+nerd;Connect+with+me+:)">
 </p>
 
-
+[![@binukads's Holopin board](https://holopin.me/binukads)](https://holopin.io/@binukads)
 
 <h5>
   
@@ -26,7 +26,7 @@
 
 - Support me :[buy me a coffee](https://www.buymeacoffee.com/BinukaDs)
   
-[![@binukads's Holopin board](https://holopin.me/binukads)](https://holopin.io/@binukads)
+
 
 
 	
