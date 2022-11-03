@@ -20,7 +20,7 @@
 
 - Reach me :[hello@binukads.me](mailto:hello@binukads.me)
 	
-- Some of my projects :[www.BinukaDs.me/#works](https://www.binukads.me/#works)
+- Some of my projects :[www.BinukaDs.me/#projects](https://www.binukads.me/#projects)
 	
 - My experiences :[www.BinukaDs.me/#about](https://www.binukads.me/#about)
 
