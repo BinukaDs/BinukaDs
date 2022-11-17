@@ -10,19 +10,19 @@
   
  ![](https://komarev.com/ghpvc/?username=your-github-BinukaDs&color=329325&tytle=flat-square)
 
-- I am currently learning Machine Learning :)
+- Currently learning Next Js :)
 
-- My Portfolio :[BinukaDs.me](https://www.binukads.me)
+- Portfolio : [binukads.me](https://www.binukads.me)
 
-- My Links Website :[BinukaDs.github.io](https://binukads.github.io)
+- Contact Links : [binukads.github.io](https://binukads.github.io)
 
-- Reach me :[hello@binukads.me](mailto:hello@binukads.me)
+- Email : [hello@binukads.me](mailto:hello@binukads.me) , [binukadasunpriya@gmail.com](mailto:binukadasunpriya@gmail.com)
 	
-- Some of my projects :[www.BinukaDs.me/#projects](https://www.binukads.me/#projects)
+- Some projects : [www.BinukaDs.me/#projects](https://www.binukads.me/#projects)
 	
-- My experiences :[www.BinukaDs.me/#about](https://www.binukads.me/#about)
+- Experience : [www.BinukaDs.me/#about](https://www.binukads.me/#about)
 
-- Support me :[buy me a coffee](https://www.buymeacoffee.com/BinukaDs)
+- Support :[buy me a coffee](https://www.buymeacoffee.com/BinukaDs)
   
 
 
