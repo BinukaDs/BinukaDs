@@ -34,6 +34,7 @@
 <h3>Languages & tools 👨‍💻</h3>
 
 <div>
+<img src="https://user-images.githubusercontent.com/77571607/202487776-2bd8933a-3d7e-4f7e-a81b-33e66685f95b.png" width ="48px" height="48px"/>
 <img src="https://iconape.com/wp-content/png_logo_vector/c.png" width ="48px" height="48px"/>
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
