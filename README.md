@@ -34,25 +34,25 @@
 <h3>Languages & tools 👨‍💻</h3>
 
 <div>
-<img src="https://user-images.githubusercontent.com/77571607/202487776-2bd8933a-3d7e-4f7e-a81b-33e66685f95b.png" width ="48px" height="48px"/>
-<img src="https://iconape.com/wp-content/png_logo_vector/c.png" width ="48px" height="48px"/>
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
-<img src="https://img.icons8.com/color/48/000000/arduino.png"/>
-<img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png" /> 
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" style="width:50px; height:50px;"/>	
-<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>	
-<img src="https://img.icons8.com/officel/48/000000/markdown.png"/>
-<img src="https://img.icons8.com/color/48/000000/sass.png"/>
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/windows-11.png"/>
-<img src="https://img.icons8.com/color/48/000000/webstorm.png"/>
-<img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
-<img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/>
+<img src="https://user-images.githubusercontent.com/77571607/202488708-9a508fd8-3a5d-46a4-8d39-fa24836409e6.png" width ="48px" height="48px"/>
+<img src="https://user-images.githubusercontent.com/77571607/202488585-31f35899-bdb4-49ae-bab0-3cb86a187f28.png" width ="48px" height="48px"/>
+<img src="https://user-images.githubusercontent.com/77571607/202488906-448ec80c-2e68-4de4-8d9f-c3774b458e24.png" width ="48px"/>
+<img src="https://user-images.githubusercontent.com/77571607/202489150-ab5e86a5-b80d-4e67-9dca-5f37e34e3262.png" width ="48px"/>
+<img src="https://user-images.githubusercontent.com/77571607/202489877-f7c23880-a498-447b-81ba-7c6f9af05a0b.png" width ="48px"/>
+<img src="https://img.icons8.com/color/48/000000/html-5.png" width ="48px"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png" width ="48px"/> 
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width ="48px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width ="48px"/>	
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png" width ="48px"/>	
+<img src="https://img.icons8.com/officel/48/000000/markdown.png" width ="48px"/>
+<img src="https://img.icons8.com/color/48/000000/sass.png" width ="48px"/>
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width ="48px"/>
+<img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png" width ="48px"/>
+<img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png" width ="48px"/>
+<img src="https://img.icons8.com/color/48/000000/windows-11.png" width ="48px"/>
+<img src="https://img.icons8.com/color/48/000000/webstorm.png" width ="48px"/>
+<img src="https://img.icons8.com/color/48/000000/pycharm.png" width ="48px"/>
+<img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width ="48px"/>
 </div>
 
 <h3>Connect with me 👇</h3>
