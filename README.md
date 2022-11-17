@@ -31,7 +31,7 @@
 
 	
 </h5>
-<h3>Languages & tools 👨‍💻</h3>
+<h3>Languages 👨‍💻</h3>
 
 <div>
 <img src="https://user-images.githubusercontent.com/77571607/202488708-9a508fd8-3a5d-46a4-8d39-fa24836409e6.png" width ="48px" height="48px"/>
@@ -39,32 +39,17 @@
 <img src="https://user-images.githubusercontent.com/77571607/202488906-448ec80c-2e68-4de4-8d9f-c3774b458e24.png" width ="48px"/>
 <img src="https://user-images.githubusercontent.com/77571607/202489150-ab5e86a5-b80d-4e67-9dca-5f37e34e3262.png" width ="48px"/>
 <img src="https://user-images.githubusercontent.com/77571607/202489877-f7c23880-a498-447b-81ba-7c6f9af05a0b.png" width ="48px"/>
-<img src="https://img.icons8.com/color/48/000000/html-5.png" width ="48px"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png" width ="48px"/> 
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width ="48px"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width ="48px"/>	
-<img src="https://img.icons8.com/color/48/000000/bootstrap.png" width ="48px"/>	
-<img src="https://img.icons8.com/officel/48/000000/markdown.png" width ="48px"/>
-<img src="https://img.icons8.com/color/48/000000/sass.png" width ="48px"/>
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width ="48px"/>
-<img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png" width ="48px"/>
-<img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png" width ="48px"/>
-<img src="https://img.icons8.com/color/48/000000/windows-11.png" width ="48px"/>
-<img src="https://img.icons8.com/color/48/000000/webstorm.png" width ="48px"/>
-<img src="https://img.icons8.com/color/48/000000/pycharm.png" width ="48px"/>
-<img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width ="48px"/>
+<img src="https://user-images.githubusercontent.com/77571607/202490480-6c3b6808-0818-4e0f-8115-64478f19683d.png" width ="48px"/>
+<img src="https://user-images.githubusercontent.com/77571607/202490656-1dd06912-6f61-4a2e-b2fa-6d408c82288e.png" width ="48px"/> 
+<img src="https://user-images.githubusercontent.com/77571607/202490807-c43fbe23-26a2-4dd4-9f2a-851b17219e55.png" width ="48px"/>
 </div>
 
 <h3>Connect with me 👇</h3>
-<a href="https://twitter.com/Binuka_Ds" target="_blank"/><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/>
-<a href="https://www.linkedin.com/in/binukadasunpriya/" target="_blank"/><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>
-<a href="https://www.instagram.com/binukads/" target="_blank"/><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
-<a href="https://www.binukads.me" target="_blank"/><img src="https://img.icons8.com/fluency/48/000000/domain.png"/>
-<a href="https://dev.to/binukads" target="_blank" /><img src="https://img.icons8.com/color/48/000000/devpost.png"/>
-<a href="https://tinyurl.com/yxdmch39" target="_blank" /><img src="https://img.icons8.com/fluency/48/000000/arduino.png" />
-<a href="https://tinyurl.com/buphz5ay" target="_blank" /><img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
-<a href="https://tinyurl.com/nuvbu9j4" target="_blank" /><img src="https://img.icons8.com/doodle/48/000000/reddit--v4.png"/>
-<a href="https://tinyurl.com/8ewxzb3m" target="_blank" /><img src="https://img.icons8.com/color/48/000000/codepen.png"/>
+<a href="https://twitter.com/Binuka_Ds" target="_blank"/><img src="https://user-images.githubusercontent.com/77571607/202492124-f49b91d3-f1ab-44f5-b818-38ce5a8ed021.png" width="32px"/>
+<a href="https://www.linkedin.com/in/binukadasunpriya/" target="_blank"/><img src="https://user-images.githubusercontent.com/77571607/202491690-a3a802ef-6d16-4ec1-ba3a-d3714d5b0c4a.png" width="32px"/>
+<a href="https://www.instagram.com/binukads/" target="_blank"/><img src="https://user-images.githubusercontent.com/77571607/202492465-fe9efd9a-f715-42da-af2a-4ea848965a3c.png" width="32px"/>
+<a href="https://www.binukads.me" target="_blank"/><img src="https://user-images.githubusercontent.com/77571607/202493236-f52f4045-5e8d-45f2-a107-de69ce76193c.png" width="32px"/>
+
 
 <h3>my GitHub Streak ✅</h3>
 
