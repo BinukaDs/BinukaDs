@@ -18,9 +18,9 @@
 
 - Email : [hello@binukads.me](mailto:hello@binukads.me) , [binukadasunpriya@gmail.com](mailto:binukadasunpriya@gmail.com)
 	
-- Some projects : [www.BinukaDs.me/#projects](https://www.binukads.me/#projects)
+- Some projects : [www.binukads.me/#projects](https://www.binukads.me/#projects)
 	
-- Experience : [www.BinukaDs.me/#about](https://www.binukads.me/#about)
+- Experience : [www.binukads.me/#about](https://www.binukads.me/#about)
 
 - Support :[buy me a coffee](https://www.buymeacoffee.com/BinukaDs)
   
