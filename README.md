@@ -32,6 +32,7 @@
 <h3>Languages 👨‍💻</h3>
 
 <div>
+<img src="https://user-images.githubusercontent.com/77571607/205431744-fb65efdb-7812-45aa-84c7-22fabcf388b4.png" width ="48px" />	
 <img src="https://user-images.githubusercontent.com/77571607/202488708-9a508fd8-3a5d-46a4-8d39-fa24836409e6.png" width ="48px"/>
 <img src="https://user-images.githubusercontent.com/77571607/202488585-31f35899-bdb4-49ae-bab0-3cb86a187f28.png" width ="48px"/>
 <img src="https://user-images.githubusercontent.com/77571607/202488906-448ec80c-2e68-4de4-8d9f-c3774b458e24.png" width ="48px"/>
