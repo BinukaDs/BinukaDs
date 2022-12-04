@@ -10,7 +10,7 @@
   
  ![](https://komarev.com/ghpvc/?username=your-github-BinukaDs&color=329325&tytle=flat-square)
 
-- Currently learning Next Js :)
+- Currently building a blog with Next Js :)
 
 - Portfolio : [binukads.me](https://www.binukads.me)
 
