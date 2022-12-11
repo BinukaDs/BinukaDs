@@ -29,7 +29,7 @@
 
 	
 </h5>
-<h3>Languages 👨‍💻</h3>
+<h3>Languages & Frameworks 👨‍💻</h3>
 
 <div>
 <img src="https://user-images.githubusercontent.com/77571607/205431744-fb65efdb-7812-45aa-84c7-22fabcf388b4.png" width ="48px" />	
