@@ -14,7 +14,7 @@
 
 - Portfolio : [binukads.me](https://www.binukads.me)
 
-- Contact Links : [binukads.github.io](https://binukads.github.io)
+- Contact Links : [links.binukads.me](https://links.binukads.me)
 
 - Email : [hello@binukads.me](mailto:hello@binukads.me) , [binukadasunpriya@gmail.com](mailto:binukadasunpriya@gmail.com)
 	
