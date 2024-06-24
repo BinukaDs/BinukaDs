@@ -49,12 +49,6 @@
 <a href="https://www.instagram.com/its.binuka/" target="_blank"/><img src="https://user-images.githubusercontent.com/77571607/202492465-fe9efd9a-f715-42da-af2a-4ea848965a3c.png" width="32px"/>
 <a href="https://www.binukads.me" target="_blank"/><img src="https://user-images.githubusercontent.com/77571607/202493236-f52f4045-5e8d-45f2-a107-de69ce76193c.png" width="32px"/>
 
-
-
-<h3>Spotify Playing 🎧</h3>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=a73rjgade7gjasbfduqu8a9h9&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/a73rjgade7gjasbfduqu8a9h9?si=d4e711edb78043b1)
-
 [![@binukads's Holopin board](https://holopin.me/binukads)](https://holopin.io/@binukads)
 
 
